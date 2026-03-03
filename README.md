@@ -44,7 +44,7 @@ There are multiple valid AWS-native approaches to solve this problem. You are fr
 
 ## Pre-Existing Infrastructure
 
-###S3 bucket (landing zone)
+### S3 bucket (landing zone)
 s3-snowflake-integration
 
 ### MWAA environment
