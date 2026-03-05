@@ -92,7 +92,7 @@ This exercise is designed to evaluate your ability to:
 
 ### 1. Architecture Design
 
-Draw a high-level architecture diagram using Draw.io
+Draw a high-level architecture diagram using Draw.io [https://app.diagrams.net/]
 
 Show all relevant AWS components and how they interact
 
